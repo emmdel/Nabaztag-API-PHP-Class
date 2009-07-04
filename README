@@ -1,0 +1,10 @@
+A PHP class to control the essential functions of a Nabaztag rabbit through the Nabaztag API.
+
+Handles:
+- Text to speach
+- Ear positioning
+- Wake / sleep
+
+Requires PHP5, CURL and a Nabaztag rabbit: http://www.nabaztag.com/
+
+See nabaztag_example.php for a demo of the features.
